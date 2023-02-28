@@ -23,7 +23,6 @@ class HubspotBatchErrorHandler:
         self.created_records = {'results': []}
         self.error_records = {'inputs': []}
         self.api_calls = 0
-        self.bifurcate(process_list=self.payload)
     
     def get_errors(self):
         return self.error_records
@@ -31,7 +30,7 @@ class HubspotBatchErrorHandler:
     def get_success(self):
         return self.created_records
 
-    def bifurcate(self, process_list):
+    def error_process(self, process_list):
         if len(process_list['inputs']) == 1:
             self.error_records['inputs'].extend(process_list['inputs'])
             return
@@ -56,7 +55,7 @@ class HubspotBatchErrorHandler:
             )
             self.api_calls += 1
             if not created_records.ok:
-                self.bifurcate(payload)
+                self.error_process(payload)
             else:
                 self.created_records['results'].extend(created_records.json()['results'])
 
@@ -94,6 +93,7 @@ def main():
             response=created_records,
             success_code=success_code
         )
+        error_processor.error_process(error_processor.payload)
         created_records = error_processor.get_success()
         error_records = error_processor.get_errors()
         print(error_processor.api_calls)
