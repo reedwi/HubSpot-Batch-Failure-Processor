@@ -1,0 +1,404 @@
+{
+    "duplicate_email": {
+        "inputs": [
+            {
+                "properties": {
+                  "email": "example+a@hubspot.com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example+1@hubspot.com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example+2@hubspot.com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example+3@hubspot.com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example@hubspot.com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example+5@hubspot.com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example+6@hubspot.com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example+7@hubspot.com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example+8@hubspot.com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example+9@hubspot.com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example+10@hubspot.com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example+11@hubspot.com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example+12@hubspot.com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            }
+        ]
+    },
+    "no_errors": {
+        "inputs": [
+            {
+                "properties": {
+                  "email": "example@hubspot.com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example1@hubspot.com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example2@hubspot.com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example3@hubspot.com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example4@hubspot.com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example5@hubspot.com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example6@hubspot.com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example7@hubspot.com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example8@hubspot.com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example9@hubspot.com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example10@hubspot.com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example11@hubspot.com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example12@hubspot.com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            }
+        ]
+    },
+    "all_errors": {
+        "inputs": [
+            {
+                "properties": {
+                  "email": "example@hubspot.  com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example1@hubspot .com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example2@hubspot  .com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example3@hubspot  .com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example4@hubspot  .com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example5@hubspot  .com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example6@hubspot  .com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example7@hubspot .com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example8@hubspot  .com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example9@hubspot  .com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example10@hubspot  .com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example11@hubspot  .com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            },
+            {
+                "properties": {
+                  "email": "example12@hubspot.com",
+                  "firstname": "Jane",
+                  "lastname": "Doe",
+                  "phone": "(555) 555-5555",
+                  "company": "HubSpot",
+                  "website": "hubspot.com"
+                }
+            }
+        ]
+    }
+}
